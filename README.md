@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&
-color=gradient&
-text=%20깃허브%20&
-height=200&
-fontSize=50&
-fontColor=FF00FF&
-textBg=true)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=00FF00&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae-lim)](https://github.com/seokjae-lim/github-readme-stats)
@@ -17,6 +14,7 @@ textBg=true)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=seokjae&show_icons=true&theme=radical)](https://github.com/seokjae)
 
 
 
@@ -48,3 +46,8 @@ textBg=true)
  |Cell1|Cell2|
  |Cell1|Cell2|
  |Cell1|Cell2|
+
+
+ :smirk:
+ :joy:
+ :rage:
