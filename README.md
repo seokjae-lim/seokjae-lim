@@ -67,13 +67,11 @@ I design **systems that make complex information usable, traceable, and reusable
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae-lim&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=seokjae-lim&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=seokjae&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="150"/>
 
 </div>
 
@@ -82,7 +80,7 @@ I design **systems that make complex information usable, traceable, and reusable
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seokjae-lim&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seokjae&theme=github-dark&hide_border=true"/>
 
 </div>
 
