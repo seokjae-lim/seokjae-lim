@@ -5,7 +5,7 @@
 ### AI · Data · Governance
 
 Structuring problems clearly  
-and using AI as an infrastructure for better decisions
+and using AI as infrastructure for better decisions
 
 </div>
 
@@ -14,11 +14,11 @@ and using AI as an infrastructure for better decisions
 ## About
 
 I work at the intersection of **AI, data, and governance**,  
-with a focus on **problem structuring, knowledge organization, and decision support**.
+focusing on **problem structuring, knowledge organization, and decision support**.
 
 My background combines accounting, public data consulting, and AI system design.  
 Rather than building models for their own sake,  
-I design **systems that make complex information usable and traceable**.
+I design **systems that make complex information usable, traceable, and reusable**.
 
 ---
 
@@ -69,8 +69,19 @@ I design **systems that make complex information usable and traceable**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae-lim&layout=compact&hide_border=true&theme=transparent" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=seokjae-lim&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae-lim&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=seokjae-lim&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seokjae-lim&theme=github-dark&hide_border=true"/>
 
 </div>
 
