@@ -39,20 +39,15 @@ I design **systems that make complex information usable, traceable, and reusable
 
 ---
 
-## Tech Stack
+## Technical Focus
 
-**Languages & Data**
+- Python & SQL for lightweight data analysis and automation  
+- AI-assisted development for rapid prototyping  
+- Workflow orchestration using tools such as n8n  
+- Experimentation with MCP-based tool and agent integration  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Backend & Infra**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=mariadb&logoColor=white)
+I focus less on low-level implementation and more on  
+**connecting tools, structuring workflows, and making AI systems usable**.
 
 ---
 
