@@ -67,6 +67,8 @@ I design **systems that make complex information usable, traceable, and reusable
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokjae-lim&layout=compact&theme=github_dark&hide_border=true" height="150"/>
@@ -75,7 +77,6 @@ I design **systems that make complex information usable, traceable, and reusable
 
 </div>
 
----
 
 ## Contributions
 
